@@ -1,0 +1,47 @@
+{
+  "Video": [
+    {
+      "id": "vUVUsP3pYps",
+      "url": "https://www.youtube.com/watch?v=vUVUsP3pYps",
+      "title": "Be Healthy: Real people, real change - Bruno",
+      "description": "Be Healthy, our global health and well-being program for associates, helped Bruno, a Novartis associate from Austria, to make a major change in his life. Now he has more strength and energy to enjoy the outdoors again.",
+      "duration": "110"
+    },
+    {
+      "id": "v_2NjePtUY0",
+      "url": "https://www.youtube.com/watch?v=v_2NjePtUY0",
+      "title": "Be Healthy: Real people, real change - Girish",
+      "description": "Girish works for Novartis in India. Be Healthy, our global health and well-being program for associates, helped him quit smoking -- and bring him closer to his family.",
+      "duration": "97"   
+    },
+	{
+      "id": "da1mfKvbUdc",
+      "url": "https://www.youtube.com/watch?v=da1mfKvbUdc",
+      "title": "Be Healthy: Real people, real change - Michel",
+      "description": "Michel, a Novartis associates from Brazil, used to play professional football. Be Healthy, our global health and well-being program for associates, helped him rekindle this active lifestyle.",
+      "duration": "118"   
+    },
+	{
+      "id": "7ApGCZsWq9o",
+      "url": "https://www.youtube.com/watch?v=7ApGCZsWq9o",
+      "title": "Be Healthy: Real people, real change - Tenta",
+      "description": "Tenta works for Novartis in Spain. Be Healthy, our global health and well-being program for associates, helped motivate her to change her life and become the person she wanted to be - exceeding even her own expectations.",
+      "duration": "94"   
+    },
+	
+	{
+      "id": "ceUHRAoUMYs",
+      "url": "https://www.youtube.com/watch?v=ceUHRAoUMYs",
+      "title": "Novartis Be Healthy",
+      "description": "oseph Jimenez, CEO of Novartis, talks about how Novartis Group Company associates across 32 countries are participating in a new Novartis health and well-being initiative during the first Novartis Be Healthy Celebration Week from September 19-23, 2011. Be Healthy is an internal initiative for the benefit of Novartis associates.",
+      "duration": "215"   
+    },
+	{
+      "id": "ruIJCvBjcPo",
+      "url": "https://www.youtube.com/watch?v=ruIJCvBjcPo",
+      "title": "Be Healthy: the first company-wide health and well-being initiative at Novartis",
+      "description": "As a healthcare company, Novartis recognizes that employees are an integral part of the company's success and a healthy workforce underpins business growth.",
+      "duration": "120"   
+    }
+  ]
+}
